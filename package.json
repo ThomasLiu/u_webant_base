@@ -1,6 +1,6 @@
 {
   "name": "u_webant_base",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Some base Layout, Models, Sercices, Utils",
   "main": "index.js",
   "scripts": {
@@ -41,8 +41,7 @@
     "react-intl-universal": "^1.15.4",
     "react-router-dom": "^4.3.1",
     "react-transition-group": "^2.5.1",
-    "u_webant": "^1.0.11",
-    "umi": "^2.2.8"
+    "u_webant": "^1.0.11"
   },
   "devDependencies": {
     "eslint": "^5.10.0",
@@ -52,6 +51,7 @@
     "eslint-plugin-compat": "^2.6.3",
     "eslint-plugin-import": "^2.14.0",
     "eslint-plugin-markdown": "^1.0.0-rc.0",
-    "eslint-plugin-react": "^7.11.1"
+    "eslint-plugin-react": "^7.11.1",
+    "umi": "^2.2.8"
   }
 }
