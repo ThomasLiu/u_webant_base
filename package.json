@@ -1,6 +1,6 @@
 {
   "name": "u_webant_base",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Some base Layout, Models, Sercices, Utils",
   "main": "index.js",
   "scripts": {
