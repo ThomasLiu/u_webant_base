@@ -1,10 +1,10 @@
 
 
-import utils from './lib/baseUtils';
-import services from './lib/baseServices';
-import config from './lib/baseConfig';
+const utils = require('./lib/baseUtils');
+const services = require('./lib/baseServices');
+const config = require('./lib/baseConfig');
 
-export default {
+module.exports = {
   utils,
   services,
   routes,
