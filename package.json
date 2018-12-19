@@ -1,6 +1,6 @@
 {
   "name": "u_webant_base",
-  "version": "0.0.14",
+  "version": "0.0.15",
   "description": "Some base Layout, Models, Sercices, Utils",
   "main": "./index.js",
   "files": [
@@ -27,6 +27,6 @@
   "homepage": "https://github.com/UReact/u_webant_base#readme",
   "dependencies": {
     "qs": "^6.6.0",
-    "util_react_web": "0.0.7"
+    "util_react_web": "^0.0.8"
   }
 }
