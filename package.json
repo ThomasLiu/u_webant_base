@@ -1,6 +1,6 @@
 {
   "name": "u_webant_base",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "description": "Some base Layout, Models, Sercices, Utils",
   "main": "./index.js",
   "files": [
@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/ThomasLiu/u_webant_base/issues"
   },
-  "homepage": "https://github.com/ThomasLiu/u_webant_base#readme"
+  "homepage": "https://github.com/ThomasLiu/u_webant_base#readme",
+  "dependencies": {
+    "qs": "^6.6.0"
+  }
 }
