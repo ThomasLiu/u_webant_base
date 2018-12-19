@@ -1,6 +1,6 @@
 {
   "name": "u_webant_base",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "description": "Some base Layout, Models, Sercices, Utils",
   "main": "./index.js",
   "files": [
@@ -26,6 +26,9 @@
   },
   "homepage": "https://github.com/ThomasLiu/u_webant_base#readme",
   "dependencies": {
-    "qs": "^6.6.0"
+    "qs": "^6.6.0",
+    "umi_base_config": "0.0.4",
+    "util_react_request": "0.0.1",
+    "util_storage": "0.0.1"
   }
 }
