@@ -1,14 +1,7 @@
-
-
-const utils = require('./lib/baseUtils');
-const services = require('./lib/baseServices');
-const config = require('./lib/baseConfig');
+const user = require('./lib/model/user')
+const global = require('./lib/model/global')
 
 module.exports = {
-  utils,
-  services,
-  routes,
-  layouts,
-  pages,
-  config
+  user,
+  global
 }
