@@ -1,6 +1,6 @@
 {
   "name": "u_webant_base",
-  "version": "0.0.18",
+  "version": "0.0.20",
   "description": "Some base Layout, Models, Sercices, Utils",
   "main": "./index.js",
   "files": [
@@ -29,6 +29,6 @@
     "lodash": "^4.17.11",
     "memoize-one": "^5.0.0",
     "qs": "^6.6.0",
-    "util_react_web": "^0.0.8"
+    "util_react_web": "^0.0.12"
   }
 }
