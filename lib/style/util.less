@@ -353,6 +353,13 @@
   .hide@{m} {
       display: none;
   }
+
+  .left@{m} {
+    float: left;
+  }
+  .right@{m} {
+    float: right;
+  }
 }
 
 .u-hide {
@@ -360,6 +367,7 @@
 }
 
 .display(~'');
+
 
 @media (max-width: @screen-sm) {
   .m-loop(15, 0, ~'-sm');
@@ -372,6 +380,12 @@
     width: 50%;
   }
   .display(~'-sm');
+  .left-sm {
+    float: left;
+  }
+  .right-sm {
+    float: right;
+  }
 }
 @media screen and (max-width: @screen-lg) and (min-width: @screen-md) {
   .m-loop(15, 0, ~'-md');
@@ -396,6 +410,7 @@
     width: 50%;
   }
   .display(~'-lg');
+ 
 }
 
 
